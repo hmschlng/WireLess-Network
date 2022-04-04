@@ -66,7 +66,10 @@ $ gpio readall
 ![gpio_pinmap](https://i.imgur.com/b4Oxi8W.png)
 <br>
 
+<br>
+
 ---
+
 ##### #1) '/tmp' 에 대한 정보 : https://m.blog.naver.com/hongjg3229/221814662731
 
 ##### #2) wget에 대한 정보 : https://jokerkwu.tistory.com/43
